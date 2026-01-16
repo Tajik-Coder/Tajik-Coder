@@ -1,4 +1,3 @@
-
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -16,12 +15,10 @@ I'm a passionate Backend Developer who thrives on building robust, scalable syst
 ## 📊 GitHub Stats & Top Languages
 <div align="center">
   <!-- GitHub Readme Stats with TokyoNight theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tajik-Coder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180" />
   <!-- Top Languages Card with Radical theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tajik-Coder&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" height="180" />
 </div>
-
-*Note: Replace `YOUR_USERNAME` in the URLs above with your actual GitHub username.*
 
 ---
 
@@ -41,8 +38,6 @@ I'm a passionate Backend Developer who thrives on building robust, scalable syst
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-*Tip: For animated icons, you can replace the static badges with GIFs or SVGs from services like [Skill Icons](https://skillicons.dev) (add `?animate=true` if supported) or [Animated Icons](https://github.com/microsoft/fluentui-system-icons).*
-
 ---
 
 <!-- ACTIVITY GRAPHS -->
@@ -50,18 +45,16 @@ I'm a passionate Backend Developer who thrives on building robust, scalable syst
 ### **Snake Animation (Eats your contributions!)**
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tajik-Coder/Tajik-Coder/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tajik-Coder/Tajik-Coder/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Tajik-Coder/Tajik-Coder/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
 ### **31‑Day Activity Graph**
 <div align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tajik-Coder&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
 </div>
-
-*Note: The snake animation requires setting up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repository. The activity graph uses [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).*
 
 ---
 
@@ -75,8 +68,6 @@ I'm always open to discussing backend architecture, new projects, or collaborati
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
   <sub><sup>“First, solve the problem. Then, write the code.” – John Johnson</sup></sub>
 </div>
-
